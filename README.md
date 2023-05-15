@@ -1,5 +1,5 @@
 # BartSummarizer
-Here's the link to try it out Live : [[https://lnkd.in/gbDqMisk](https://huggingface.co/spaces/DarkInventor/Summarizer)](https://huggingface.co/spaces/DarkInventor/Summarizer)
+Here's the link to try it out Live : (https://huggingface.co/spaces/DarkInventor/Summarizer)
 
 As a machine learning enthusiast, I have been immersing myself in exploring the world of pre-existing models. Recently, my excitement peaked when I learned about Google's innovative model, Bart, during their I/O event. However, as a Canadian resident, I was disheartened to discover that Bart cannot be launched in my country due to regulatory and privacy concerns.
 
