@@ -9,7 +9,5 @@ To make the app user-friendly, I utilized Gradio to create a simple and intuitiv
 
 Here, I am entering 1000 words and selecting the Max_length. Length is counted in the form of nltk tokens.
 
-#machinelearning #research #canada #google #pipeline #bart #API Google #BartAPI #BartinCanada #Cloud Google for DevelopersGoogle Cloud
-
 https://github.com/DarkInventor/BartSummarizer/assets/67015517/78a04446-9bee-49a4-8725-1a240e7e1246
 
